@@ -1,22 +1,4 @@
-//
-//  ViewController.swift
-//  SwappingScreen
-//
-//  Created by Milind Patel on 2017-11-21.
-//  Copyright © 2017 Milind Patel. All rights reserved.
-//
-
 import UIKit
 
-class LoginVC: UIViewController {
-
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        
-    }
-
-   
-
-
-}
-
+/// First screen. Its button pushes MusicListVC with a storyboard segue.
+class LoginVC: UIViewController {}
